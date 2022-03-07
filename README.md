@@ -1,0 +1,2 @@
+# doubleda-core
+Wordpress plugin 
